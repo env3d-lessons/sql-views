@@ -40,9 +40,9 @@ In 5.sql, write a SQL query to find the highest contrast value of prints by Hoku
 
 In 6.sql, write a SQL query to find the average entropy of prints by Hiroshige, rounded to two decimal places. Call the resulting column “Hiroshige Average Entropy”.
 
-In 7.sql, write a SQL query to list the English titles of the 5 brightest prints by Hiroshige, from most to least bright. Compare them to this list on Wikipedia to see if your results match the print’s aesthetics.
+In 7.sql, write a SQL query to list the English titles of the 5 brightest prints by Hiroshige, from most to least bright. Compare them to https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji_(Hiroshige) to see if your results match the print’s aesthetics.
 
-In 8.sql, write a SQL query to list the English titles of the 5 prints with the least contrast by Hokusai, from least to highest contrast. Compare them to this list on Wikipedia to see if your results match the print’s aesthetics.
+In 8.sql, write a SQL query to list the English titles of the 5 prints with the least contrast by Hokusai, from least to highest contrast. Compare them to https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji_(Hiroshige) on Wikipedia to see if your results match the print’s aesthetics.
 
 In 9.sql, write a SQL query to find the English title and artist of the print with the highest brightness.
 
