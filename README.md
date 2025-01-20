@@ -34,7 +34,7 @@ In 2.sql, write a SQL query to list the average colors of prints by Hokusai that
 
 In 3.sql, write a SQL query to count how many prints by Hokusai include “Fuji” in the English title. Though all of Hokusai’s prints focused on Mt. Fuji, in how many did “Fuji” make it into the title?
 
-In 4.sql, write a SQL query to count how many prints by Hiroshige have English titles that refer to the “Eastern Capital”. Hiroshige’s prints were created in Japan’s “Edo period,” referencing the eastern capital city of Edo, now Tokyo.
+In 4.sql, write a SQL query to count how many prints by Hokusai have English titles that refer to the “Eastern Capital”. Hiroshige’s prints were created in Japan’s “Edo period,” referencing the eastern capital city of Edo, now Tokyo.
 
 In 5.sql, write a SQL query to find the highest contrast value of prints by Hokusai. Name the column “Maximum Contrast”. Does Hokusai’s prints most contrasting print actually have much contrast?
 
@@ -42,7 +42,7 @@ In 6.sql, write a SQL query to find the average entropy of prints by Hiroshige, 
 
 In 7.sql, write a SQL query to list the English titles of the 5 brightest prints by Hiroshige, from most to least bright. Compare them to https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji_(Hiroshige) to see if your results match the print’s aesthetics.
 
-In 8.sql, write a SQL query to list the English titles of the 5 prints with the least contrast by Hokusai, from least to highest contrast. Compare them to https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji_(Hiroshige) on Wikipedia to see if your results match the print’s aesthetics.
+In 8.sql, write a SQL query to list the English titles of the 5 prints with the least contrast by Hiroshige, from least to highest contrast. Compare them to https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji_(Hiroshige) on Wikipedia to see if your results match the print’s aesthetics.
 
 In 9.sql, write a SQL query to find the English title and artist of the print with the highest brightness.
 
